@@ -1,0 +1,258 @@
+{
+  "cat": "Entrée",
+  "chips": [
+    "Lancer la langue la veille",
+    "Friture 180 °C"
+  ],
+  "commandes": [
+    {
+      "cat": "Boucherie",
+      "id": "c1",
+      "name": "Langue de bœuf",
+      "note": ""
+    },
+    {
+      "cat": "Fruits et légumes",
+      "id": "c2",
+      "name": "Oignons",
+      "note": "garniture aromatique"
+    },
+    {
+      "cat": "Fruits et légumes",
+      "id": "c3",
+      "name": "Carottes",
+      "note": "garniture aromatique"
+    },
+    {
+      "cat": "Fruits et légumes",
+      "id": "c4",
+      "name": "Ail",
+      "note": "garniture aromatique, teriyaki"
+    },
+    {
+      "cat": "Fruits et légumes",
+      "id": "c5",
+      "name": "Gingembre frais",
+      "note": "teriyaki, pickles"
+    },
+    {
+      "cat": "Fruits et légumes",
+      "id": "c6",
+      "name": "Citronnelle",
+      "note": "teriyaki"
+    },
+    {
+      "cat": "Fruits et légumes",
+      "id": "c7",
+      "name": "Shiso",
+      "note": "",
+      "cher": true
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c8",
+      "name": "Arôme Maggi",
+      "note": "EpiSaveurs ou Transgourmet"
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c9",
+      "name": "Gros sel",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c10",
+      "name": "Sel fin",
+      "note": "tempura"
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c11",
+      "name": "Sucre",
+      "note": "caramel teriyaki, pickles"
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c12",
+      "name": "Farine",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c13",
+      "name": "Maïzena",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c14",
+      "name": "Algues nori",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c15",
+      "name": "Sésame",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c16",
+      "name": "Sauce soja",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c17",
+      "name": "Mirin",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c18",
+      "name": "Vinaigre de riz",
+      "note": "teriyaki, pickles"
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c19",
+      "name": "Piment chipotle",
+      "note": ""
+    },
+    {
+      "cat": "Épicerie sèche",
+      "id": "c20",
+      "name": "Huile de friture",
+      "note": ""
+    },
+    {
+      "cat": "Boissons",
+      "id": "c21",
+      "name": "Bière",
+      "note": "pâte à tempura"
+    }
+  ],
+  "dressage": [
+    "Pickles de gingembre",
+    "½ feuille de shiso",
+    "Palet de tempura laqué"
+  ],
+  "envoi": [
+    "Plonger le palet de langue dans la pâte à tempura.",
+    "Frire à 180 °C.",
+    "À la sortie de friteuse, laquer à la teriyaki dans un cul-de-poule et parsemer de sésame.",
+    "Dresser dans l'assiette, de bas en haut."
+  ],
+  "mep": [
+    {
+      "detail": "Bac au froid, 1 par couvert",
+      "id": "palets",
+      "name": "Palets de langue taillés",
+      "relance": "Langue de bœuf : 6 h de cuisson + froid, à lancer en premier"
+    },
+    {
+      "detail": "Réserve non taillée",
+      "id": "boudin",
+      "name": "Langue roulée en boudin",
+      "relance": "Langue de bœuf : cuire 6 h, éplucher, rouler"
+    },
+    {
+      "detail": "Passée au chinois, réservée",
+      "id": "teriyaki",
+      "name": "Sauce teriyaki",
+      "relance": "Sauce teriyaki : 2 h 30"
+    },
+    {
+      "detail": "En bocal, dans l'appareil",
+      "id": "pickles",
+      "name": "Pickles de gingembre",
+      "relance": "Pickles de gingembre : rapide"
+    },
+    {
+      "detail": "Algues mixées avec farine et maïzena",
+      "id": "mix",
+      "name": "Mix farines + nori",
+      "relance": "Mix tempura : mixer nori, farine, maïzena"
+    },
+    {
+      "detail": "Feuilles fraîches en stock",
+      "id": "shiso",
+      "name": "Shiso",
+      "relance": "Shiso : vérifier la commande"
+    },
+    {
+      "detail": "Bac de service",
+      "id": "sesame",
+      "name": "Sésame",
+      "relance": "Sésame : remplir le bac"
+    },
+    {
+      "detail": "Propre, niveau OK",
+      "id": "huile",
+      "name": "Huile de friteuse",
+      "relance": "Friteuse : changer ou compléter l'huile"
+    }
+  ],
+  "name": "Tempura de langue de bœuf, teriyaki, shiso et pickles de gingembre",
+  "portion": "1 palet / couvert",
+  "preps": [
+    {
+      "id": "p1",
+      "steps": [
+        "Cuire 6 h dans un bouillon avec gros sel, garniture aromatique (oignon, carotte, ail) et un trait d'arôme Maggi.",
+        "Cuire jusqu'à ce qu'elle soit extrêmement fondante.",
+        "Faire prendre au froid.",
+        "Éplucher la fine peau autour.",
+        "Repasser au four vapeur jusqu'à ce qu'elle soit chaude et malléable.",
+        "Rouler en boudin serré.",
+        "Refaire prendre au froid, puis tailler en palets : 1 par couvert."
+      ],
+      "time": "6 h + froid · la veille",
+      "title": "Langue de bœuf"
+    },
+    {
+      "id": "p2",
+      "steps": [
+        "Réaliser un caramel.",
+        "Déglacer avec la sauce soja, le mirin et le vinaigre de riz.",
+        "Ajouter le gingembre lavé, non épluché, en morceaux, l'ail, la citronnelle et un tout petit peu de piment chipotle.",
+        "Cuire 2 h à feu doux.",
+        "Goûter : aigre-doux, un peu salé, un peu sucré, un peu acide.",
+        "Texture sirupeuse mais pas trop épaisse. Passer au chinois et réserver."
+      ],
+      "time": "2 h 30 · se garde",
+      "title": "Sauce teriyaki"
+    },
+    {
+      "id": "p3",
+      "steps": [
+        "Éplucher le gingembre.",
+        "Le trancher finement en petits morceaux.",
+        "Verser dessus l'appareil à pickles classique bouillant : 1 sucre, 2 vinaigre de riz, 3 eau, une pincée de sel."
+      ],
+      "time": "Rapide · se garde",
+      "title": "Pickles de gingembre"
+    },
+    {
+      "id": "p4",
+      "steps": [
+        "Mixer les algues nori avec la farine et la maïzena.",
+        "Ajouter la bière et un peu de sel.",
+        "Mélanger jusqu'à obtenir une pâte bien épaisse."
+      ],
+      "time": "Avant service",
+      "title": "Pâte à tempura aux algues"
+    },
+    {
+      "id": "p5",
+      "steps": [
+        "Tailler chaque feuille de shiso en deux."
+      ],
+      "time": "Avant service",
+      "title": "Shiso"
+    }
+  ],
+  "updatedAt": 1793991900000,
+  "order": 1
+}
