@@ -1,0 +1,326 @@
+{
+  "name": "Tartare de Saint-Jacques, pickles de jalapeño, fromage frais, kiwi et satsuma",
+  "cat": "Entrée",
+  "portion": "1 noix pour 2 à 3 couverts",
+  "chips": [
+    "Quinoa à lancer la veille",
+    "Fromage frais à refaire avant chaque service",
+    "Assiette blanche, verte et orange"
+  ],
+  "order": 2,
+  "updatedAt": 1794053000000,
+  "mep": [
+    {
+      "id": "sj",
+      "name": "Noix de Saint-Jacques taillées",
+      "detail": "Décortiquées, lavées, au froid",
+      "relance": "Saint-Jacques : décortiquer, laver, tailler en 4 ou en 6"
+    },
+    {
+      "id": "coq",
+      "name": "Coquilles lavées",
+      "detail": "1 par couvert",
+      "relance": "Coquilles : laver et réserver"
+    },
+    {
+      "id": "crave",
+      "name": "Brunoise de chou-rave",
+      "detail": "Au froid",
+      "relance": "Chou-rave : tailler en brunoise"
+    },
+    {
+      "id": "ech",
+      "name": "Échalotes ciselées",
+      "detail": "",
+      "relance": "Échalotes : ciseler"
+    },
+    {
+      "id": "satsuma",
+      "name": "Jus de satsuma",
+      "detail": "",
+      "relance": "Satsumas : presser"
+    },
+    {
+      "id": "fromage",
+      "name": "Fromage frais en poche",
+      "detail": "À refaire avant chaque service",
+      "relance": "Fromage frais : détendre, foisonner, mettre en poche avant le service"
+    },
+    {
+      "id": "jalapeno",
+      "name": "Pickles de jalapeño",
+      "detail": "En bocal, dans l'appareil",
+      "relance": "Pickles de jalapeño : faire l'appareil et verser bouillant"
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi taillé",
+      "detail": "Petits morceaux",
+      "relance": "Kiwi : tailler en petits morceaux"
+    },
+    {
+      "id": "condiment",
+      "name": "Condiment aux herbes",
+      "detail": "Lisse, au froid",
+      "relance": "Condiment aux herbes : blanchir, refroidir, mixer"
+    },
+    {
+      "id": "quinoa",
+      "name": "Quinoa soufflé",
+      "detail": "Boîte hermétique",
+      "relance": "Quinoa soufflé : cuire et mettre à sécher la veille"
+    },
+    {
+      "id": "fleurs",
+      "name": "Achillée et tagète",
+      "detail": "Fleurs fraîches",
+      "relance": "Fleurs : vérifier la commande"
+    },
+    {
+      "id": "grossel",
+      "name": "Gros sel de dressage",
+      "detail": "Bac de dressage",
+      "relance": "Gros sel : remplir le bac"
+    }
+  ],
+  "commandes": [
+    {
+      "id": "t1",
+      "cat": "Poissonnerie",
+      "name": "Noix de Saint-Jacques en coquille",
+      "note": "garder les coquilles pour le dressage",
+      "cher": true
+    },
+    {
+      "id": "t2",
+      "cat": "Fruits et légumes",
+      "name": "Chou-rave",
+      "note": "tartare en brunoise"
+    },
+    {
+      "id": "t3",
+      "cat": "Fruits et légumes",
+      "name": "Échalotes",
+      "note": ""
+    },
+    {
+      "id": "t4",
+      "cat": "Fruits et légumes",
+      "name": "Clémentines satsuma",
+      "note": "jus"
+    },
+    {
+      "id": "t5",
+      "cat": "Fruits et légumes",
+      "name": "Citrons",
+      "note": "jus"
+    },
+    {
+      "id": "t6",
+      "cat": "Fruits et légumes",
+      "name": "Piments jalapeño",
+      "note": "pickles"
+    },
+    {
+      "id": "t7",
+      "cat": "Fruits et légumes",
+      "name": "Kiwis",
+      "note": "demander des kiwis plutôt acides"
+    },
+    {
+      "id": "t8",
+      "cat": "Fruits et légumes",
+      "name": "Achillée millefeuille",
+      "note": "décor"
+    },
+    {
+      "id": "t9",
+      "cat": "Fruits et légumes",
+      "name": "Fleurs de tagète",
+      "note": "décor",
+      "cher": true
+    },
+    {
+      "id": "t19",
+      "cat": "Fruits et légumes",
+      "name": "Persil",
+      "note": "condiment aux herbes"
+    },
+    {
+      "id": "t20",
+      "cat": "Fruits et légumes",
+      "name": "Épinards",
+      "note": "condiment aux herbes"
+    },
+    {
+      "id": "t21",
+      "cat": "Fruits et légumes",
+      "name": "Estragon",
+      "note": "condiment aux herbes"
+    },
+    {
+      "id": "t10",
+      "cat": "Crèmerie",
+      "name": "Fromage frais Madame Loïk",
+      "note": ""
+    },
+    {
+      "id": "t11",
+      "cat": "Crèmerie",
+      "name": "Crème",
+      "note": "pour détendre le fromage frais"
+    },
+    {
+      "id": "t12",
+      "cat": "Épicerie sèche",
+      "name": "Huile d'olive",
+      "note": "tartare, condiment aux herbes"
+    },
+    {
+      "id": "t13",
+      "cat": "Épicerie sèche",
+      "name": "Fleur de sel",
+      "note": ""
+    },
+    {
+      "id": "t14",
+      "cat": "Épicerie sèche",
+      "name": "Sel fin",
+      "note": "fromage frais"
+    },
+    {
+      "id": "t15",
+      "cat": "Épicerie sèche",
+      "name": "Gros sel",
+      "note": "lit de dressage"
+    },
+    {
+      "id": "t16",
+      "cat": "Épicerie sèche",
+      "name": "Sucre",
+      "note": "pickles"
+    },
+    {
+      "id": "t17",
+      "cat": "Épicerie sèche",
+      "name": "Vinaigre blanc",
+      "note": "pickles"
+    },
+    {
+      "id": "t18",
+      "cat": "Épicerie sèche",
+      "name": "Quinoa",
+      "note": "quinoa soufflé"
+    },
+    {
+      "id": "t22",
+      "cat": "Épicerie sèche",
+      "name": "Huile de friture",
+      "note": "quinoa soufflé"
+    }
+  ],
+  "preps": [
+    {
+      "id": "q6",
+      "title": "Quinoa soufflé",
+      "time": "La veille · séchage une nuit",
+      "steps": [
+        "Cuire le quinoa longuement.",
+        "L'étaler à plat sur une plaque.",
+        "Laisser sécher toute une nuit au-dessus du fourneau.",
+        "Le lendemain, frire à 200 °C dans la friteuse.",
+        "Assaisonner à la sortie de friteuse."
+      ]
+    },
+    {
+      "id": "q4",
+      "title": "Pickles de jalapeño",
+      "time": "Se garde",
+      "steps": [
+        "Préparer l'appareil à pickles : 1 sucre, 2 vinaigre blanc, 3 eau.",
+        "Porter à ébullition.",
+        "Verser bouillant sur les piments jalapeño.",
+        "Au moment de dresser, tailler les piments en petits morceaux."
+      ]
+    },
+    {
+      "id": "q8",
+      "title": "Condiment aux herbes",
+      "time": "Avant service",
+      "steps": [
+        "Prendre un tas d'herbes : persil, épinard, estragon.",
+        "Blanchir à fond dans une eau salée.",
+        "Refroidir dans de l'eau glacée.",
+        "Mixer au Thermomix en montant un petit peu à l'huile d'olive, jusqu'à une texture lisse."
+      ]
+    },
+    {
+      "id": "q1",
+      "title": "Noix de Saint-Jacques",
+      "time": "Avant service",
+      "steps": [
+        "Décortiquer les noix de Saint-Jacques.",
+        "Laver les noix.",
+        "Garder les coquilles et les laver : elles servent au dressage.",
+        "Tailler les noix en 4 ou en 6 selon la grosseur : 1 noix pour 2 à 3 couverts.",
+        "Réserver au froid."
+      ]
+    },
+    {
+      "id": "q2",
+      "title": "Tartare de chou-rave",
+      "time": "Avant service",
+      "steps": [
+        "Tailler le chou-rave en brunoise.",
+        "Réserver au froid."
+      ]
+    },
+    {
+      "id": "q3",
+      "title": "Fromage frais",
+      "time": "Avant chaque service",
+      "steps": [
+        "Détendre le fromage frais Madame Loïk avec un tout petit peu de crème. Vraiment très peu.",
+        "Foisonner au batteur.",
+        "Réassaisonner avec un tout petit peu de sel.",
+        "Mettre en poche.",
+        "Attention : à faire avant chaque service. Sinon, le fromage frais se délite la nuit au frigo."
+      ]
+    },
+    {
+      "id": "q5",
+      "title": "Kiwi",
+      "time": "Avant service",
+      "steps": [
+        "Prendre des kiwis plutôt acides.",
+        "Tailler en petits morceaux."
+      ]
+    },
+    {
+      "id": "q7",
+      "title": "Assaisonnement du tartare",
+      "time": "Juste avant le service",
+      "steps": [
+        "Dans un cul-de-poule, mettre les noix de Saint-Jacques taillées et la brunoise de chou-rave.",
+        "Ajouter les échalotes ciselées, le jus de satsuma, un peu de jus de citron, l'huile d'olive et la fleur de sel.",
+        "Mélanger juste avant le service."
+      ]
+    }
+  ],
+  "envoi": [
+    "Sur une petite assiette, faire un petit lit de gros sel.",
+    "Poser dessus la coquille Saint-Jacques lavée.",
+    "Pocher le fromage frais dans le fond de la coquille.",
+    "Poser le tartare de Saint-Jacques assaisonné sur le fromage frais.",
+    "Ajouter les pickles de jalapeño et le kiwi taillés en petits morceaux, puis le quinoa soufflé.",
+    "Décorer avec l'achillée millefeuille et les fleurs de tagète. L'assiette doit être blanche, verte et orange."
+  ],
+  "dressage": [
+    "Lit de gros sel",
+    "Coquille",
+    "Fromage frais",
+    "Tartare de Saint-Jacques",
+    "Jalapeño, kiwi, quinoa soufflé",
+    "Achillée et tagète"
+  ]
+}
